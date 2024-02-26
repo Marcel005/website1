@@ -11,6 +11,7 @@ body {
 .loading-text {
     font-size: 50px;
     font-family: "Kode Mono", monospace;
+    color: white;
 }
 
 .bg {
@@ -21,5 +22,5 @@ body {
     background-image: url("images/pablo-pacheco-D3Mag4BKqns-unsplash.jpg");
     background-position: center;
     background-size: cover;
-    background-repeat; no-repeat;
+    background-repeat: no-repeat;
 }
