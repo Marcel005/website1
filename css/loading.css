@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 
 body {
     height: 100vh;
@@ -10,5 +10,5 @@ body {
 
 .loading-text {
     font-size: 50px;
-    
+    font-family: "Kode Mono", monospace;
 }
