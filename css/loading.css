@@ -18,5 +18,8 @@ body {
     width: 100vw;
     position: absolute;
     z-index: -1;
-    background-image: url("images/");
+    background-image: url("images/pablo-pacheco-D3Mag4BKqns-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat; no-repeat;
 }
