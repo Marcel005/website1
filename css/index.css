@@ -36,5 +36,6 @@ body {
 .nav a {
     color: white;
     text-decoration: none;
-    padding: 7px 15px;
+    padding: 15px;
+    padding-left: 20px;
 }
