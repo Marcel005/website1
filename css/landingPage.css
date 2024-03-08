@@ -81,6 +81,7 @@ header p {
     margin: 30px 0;
 }
 
-button {
+button,
+input {
     background-color: var(--secondary-color);
 }
