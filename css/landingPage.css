@@ -135,5 +135,8 @@ input[type='submit'] {
 .modal-header {
     background-color: var(--primary-color);
     color: white;
+    padding: 15px;
 }
+
+
 
