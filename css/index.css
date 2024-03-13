@@ -23,8 +23,11 @@ h1 {
 }
 
 .menu {
-    position: fixed;
+    position: absolute;
     display: inline-block;
+    top: 0;
+    left: 0;
+    padding: 10px;
 }
 
 .work {
