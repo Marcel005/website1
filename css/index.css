@@ -23,7 +23,7 @@ h1 {
 }
 
 .menu {
-    position: relative;
+    position: fixed;
     display: inline-block;
 }
 
