@@ -190,8 +190,8 @@ modal-header h3 {
 }
 
 .dropmenu {
-    background-color: gold;
-    color: black;
+    background-color: var(--secondary-color);
+    color: white;
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -202,8 +202,8 @@ modal-header h3 {
     position: absolute;
     display: inline-block;
     top: 0;
-    left: 0;
-    padding: 10px;
+    right: 0;
+    padding: 20px;
 }
 
 .work {
