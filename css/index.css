@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: skyblue;
 }
 
 h1 {
@@ -57,7 +57,7 @@ h1 {
 }
 
 canvas {
-    border: 1px solid black;
+    border: 3px solid black;
     height: 10em;
   display: flex;
   align-items: center;
@@ -66,4 +66,8 @@ canvas {
     margin-left: auto;
     margin-right: auto;
   }
+
+p {
+    text-align: center;
+}
 
