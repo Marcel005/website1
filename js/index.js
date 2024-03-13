@@ -9,7 +9,7 @@ const FACING_UP = 1;
 const FACING_LEFT = 2;
 const FACING_RIGHT = 3;
 const FRAME_LIMIT = 12;
-const MOVEMENT_SPEED = 3;
+const MOVEMENT_SPEED = 4;
 
 let canvas = document.querySelector('canvas');
 let ctx = canvas.getContext('2d');
