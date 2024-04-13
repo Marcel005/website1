@@ -1,0 +1,32 @@
+body {
+    background-color: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.question {
+    left: 50px;
+    top: 40vh;
+    text-align: center;
+    justify-content: center;
+    color: black;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.btn {
+    background-color: #5A5A5A;
+    text-decoration: bold;
+    font-size: 1.2rem;
+    padding: 1.5rem 3rem;
+    margin: 1rem;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-family: cursive;
+}
+
+
