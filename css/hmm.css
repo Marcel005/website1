@@ -12,14 +12,14 @@ body {
     text-align: center;
     justify-content: center;
     color: black;
-    font-size: 30px;
+    font-size: 150px;
     font-family: cursive;
 }
 
 .btn {
     background-color: #5A5A5A;
     text-decoration: bold;
-    font-size: 1.2rem;
+    font-size: 100px;
     padding: 1.5rem 3rem;
     margin: 1rem;
     border-radius: 5px;
